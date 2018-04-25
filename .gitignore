@@ -1,5 +1,6 @@
 .vs/*.*
-testPTZ/obj/*.*
+testPTZ/obj/Debug/*.*
+testPTZ/obj/Release/*.*
 testPTZ.bin/*.*
 testPTZ/Connected Services/*.*
 
